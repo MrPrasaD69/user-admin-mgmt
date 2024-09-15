@@ -1,0 +1,15 @@
+Points Done
+login with normal form submission Done
+signup with ajax form submission Done
+Post Login=> redirect to Dashboard Done
+Top Right show Profile picture and logout Done
+Auth Protection - Temp done for now
+Admin User listing table manual pagination Done
+Admin CRUD for user Done
+Logout User when Admin changes Password Done
+Song Audio play in listing Done
+Song Listing using Datatable, pagination Done
+Company Save for user Done
+Upload Profile Picture for user Done
+Song Master CRUD in Admin 
+Song link click on user panel show detail Page Done
